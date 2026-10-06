@@ -1,0 +1,25 @@
+{
+  "settings": [
+    {
+      "key": "reflections",
+      "label": "Floor Reflections",
+      "description": "Mirror the boxes on the glossy floor",
+      "type": "toggle",
+      "default": true
+    },
+    {
+      "key": "shadows",
+      "label": "Real-time Shadows",
+      "description": "Soft shadows from the key light",
+      "type": "toggle",
+      "default": true
+    },
+    {
+      "key": "idleMotion",
+      "label": "Idle Motion",
+      "description": "Gentle sway of the selected box and the camera",
+      "type": "toggle",
+      "default": true
+    }
+  ]
+}

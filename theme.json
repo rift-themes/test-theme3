@@ -1,0 +1,7 @@
+{
+    "name": "Vitrina 3D",
+    "version": "1.0.0",
+    "author": "Rift",
+    "description": "Real-time 3D showroom: game boxes with real lighting, shadows and floor reflections. Requires Qt Quick 3D.",
+    "main": "theme.qml"
+}
